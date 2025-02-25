@@ -1,6 +1,6 @@
 # Netflix TV Shows & Movies Dashboard
 This Power BI Dashboard provides an interactive analysis of Netflix's TV Shows and Movies, focusing on Action & Adventure content. It enables users to explore the distribution of titles, ratings, and durations across different years and countries 
--< a herf = https://github.com/RimshaAli-10/Netflix-Dashboard/commit/b4e0b76c374f253d4a348c5a937819a464901d98 > # Netflix TV Shows & Movies Dashboard </a>
+-<a herf = https://github.com/RimshaAli-10/Netflix-Dashboard/commit/b4e0b76c374f253d4a348c5a937819a464901d98>  Netflix TV Shows & Movies Dashboard </a>
 ## Key Features
 ## Time-Based Analysis:
 -  Adjust the timeline to analyze Netflix content by release year.
@@ -13,7 +13,7 @@ This Power BI Dashboard provides an interactive analysis of Netflix's TV Shows a
  - Filter content by Movies/TV Shows and Country.
 ## DataSet 
 This dashboard is built using a Netflix dataset, containing metadata on TV shows and movies, including title, type, rating, duration, and country of release.
--< a herf = https://github.com/RimshaAli-10/Netflix-Dashboard/commit/b4e0b76c374f253d4a348c5a937819a464901d98 > # Netflix TV Shows & Movies Dataset  </a>
+-<a herf = https://github.com/RimshaAli-10/Netflix-Dashboard/commit/b4e0b76c374f253d4a348c5a937819a464901d98>  Netflix TV Shows & Movies Dataset  </a>
 ## How to Use
 - Open the .pbix file in Power BI Desktop.
 - Use slicers to filter by Movies/TV Shows, Country, and Year Range.
