@@ -14,7 +14,7 @@ This Power BI Dashboard provides an interactive analysis of Netflix's TV Shows a
  - Filter content by Movies/TV Shows and Country.
 ## DataSet 
 This dashboard is built using a Netflix dataset, containing metadata on TV shows and movies, including title, type, rating, duration, and country of release.
--<a herf = https://github.com/RimshaAli-10/Netflix-Dashboard/commit/b4e0b76c374f253d4a348c5a937819a464901d98>  Netflix TV Shows & Movies Dataset  </a>
+-<a href = https://github.com/RimshaAli-10/Netflix-Dashboard/blob/main/Netflix%20Dataset.pbix >  Netflix TV Shows & Movies Dataset  </a>
 ## How to Use
 - Open the .pbix file in Power BI Desktop.
 - Use slicers to filter by Movies/TV Shows, Country, and Year Range.
